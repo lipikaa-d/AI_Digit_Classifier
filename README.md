@@ -138,5 +138,5 @@ streamlit run app.py
 - Streamlit
 - Jupyter Notebook
 
-## 📁 Project Structure
+
 
