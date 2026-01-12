@@ -1,0 +1,54 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --------------------
+# Virtual Environments
+# --------------------
+venv/
+venv_tf/
+.env
+
+# --------------------
+# Jupyter Notebook
+# --------------------
+.ipynb_checkpoints/
+
+# --------------------
+# ML Models & Artifacts
+# --------------------
+*.pkl
+*.h5
+*.joblib
+
+# --------------------
+# Data (MNIST / generated)
+# --------------------
+data/
+*.csv
+
+# --------------------
+# Streamlit
+# --------------------
+.streamlit/
+.streamlit/secrets.toml
+
+# --------------------
+# PyCharm
+# --------------------
+.idea/
+
+# --------------------
+# OS Files
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# Logs
+# --------------------
+*.log
